@@ -7,4 +7,4 @@
     - 커밋에 포함되면 안되는 파일들을 관리하는 파일
     - 저장소마다 1개씩 세팅되어 있는게 일반적임
     - [Toptal의 gitignore generator](https://www.toptal.com/developers/gitignore/api/windows,intellij,visualstudiocode,visualstudio)를 사용해서 운영체제, 개발환경(IDE), 사용하는 프로그래밍 언어에 맞는 gitignore파일을 생성할 수 있음.
-    - 이 외에도 VScode에 Extension을 설치해 gitignore 파일을 관리하기도 함.
+      - 이 외에도 VScode에 Extension을 설치해 gitignore 파일을 관리하기도 함.
